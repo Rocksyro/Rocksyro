@@ -1,5 +1,6 @@
 # 💫 About Me:
-Currently, I am working on learning React and studying best practices.
+Currently, I am working on learning React and studying best practices.   
+Additionally, I am pursuing a degree in Information Systems Engineering.
 
 
 ## 🌐 Socials:
